@@ -28,4 +28,4 @@ A simple and responsive personal portfolio website developed as part of the **Fu
 
 **Ponnapalli Shanmukhi Sai**
 B.E Computer Science Engineering
-Stanley College of Engineering & Technology for Women
+Stanley College of Engineering & Technology for Women.
