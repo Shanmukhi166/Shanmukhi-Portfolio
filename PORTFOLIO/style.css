@@ -1,0 +1,58 @@
+body{
+    font-family:Arial,sans-serif;background:#F8F7FC;
+    color:#333
+}
+.navbar{
+    background:#E9D8FD
+}
+.nav-link,.navbar-brand{
+    color:#4A3B6A!important
+}
+.hero{
+    padding:70px 0;background:#F3ECFF
+}
+h2{
+    color:#6B46C1;
+    margin-bottom:20px
+}
+.card{
+    border:none;
+    border-radius:15px;
+    background:white;
+    box-shadow:0 3px 10px rgba(0,0,0,.08)
+}
+.submit-btn,#themeBtn{
+    background:#B794F4;color:white;
+    border:none
+}
+.submit-btn:hover,#themeBtn:hover{
+    background:#9F7AEA
+}
+.dark{
+    background:#1E1E2E;
+    color:#EEE
+}
+.dark .navbar{
+    background:#2D2D44
+}.dark .hero{
+    background:#2A2A40
+}
+.dark .card,.dark table{
+    background:#34344A;
+    color:#FFF
+}
+.dark .table{
+    color:#FFF}
+
+.dark .navbar-brand,
+.dark .nav-link,
+.dark #themeBtn {
+    color: white !important;
+}
+.dark .navbar-toggler {
+    border-color: white;
+}
+
+.dark .navbar-toggler-icon {
+    filter: invert(1);
+}
